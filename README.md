@@ -1,5 +1,5 @@
 <h2 align="center">Hi guys :blush:, I'm Rujira Kongsomran</h2>
-<h4 align="center">A passionate android developer :computer:</h4>
+<h4 align="center">A passionate android developer :woman_technologist:</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rujirakongsomran&label=visitors&color=0e75b6&style=flat" alt="rujirakongsomran" /> </p>
 
